@@ -1,0 +1,8 @@
+http://www.sqlines.com/sql-server-to-postgresql
+
+Promijenjeno je slijedece
+
+SERIAL->INTEGER IDENTITY(1, 1)
+TIMESTAMP(6) WITHOUT TIME ZONE -> DATETIME2(6)
+CHARACTER VARYING(32) -->  VARCHAR(32)
+TEXT --> NTEXT

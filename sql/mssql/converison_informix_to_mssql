@@ -1,0 +1,7 @@
+http://www.sqlines.com/informix-to-sql-server#create-table-statement
+
+Promijenjeno je slijedece
+
+SERIAL->INT IDENTITY
+DATETIME YEAR TO FRACTION(5) -> DATETIME2
+CLOB -> VARCHAR(max) 
